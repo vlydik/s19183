@@ -1,0 +1,10 @@
+/Users/vladyslav/RiderProjects/s19183/ConsoleAppTest/ConsoleAppTest/bin/Debug/netcoreapp3.1/ConsoleAppTest.deps.json
+/Users/vladyslav/RiderProjects/s19183/ConsoleAppTest/ConsoleAppTest/bin/Debug/netcoreapp3.1/ConsoleAppTest.runtimeconfig.json
+/Users/vladyslav/RiderProjects/s19183/ConsoleAppTest/ConsoleAppTest/bin/Debug/netcoreapp3.1/ConsoleAppTest.runtimeconfig.dev.json
+/Users/vladyslav/RiderProjects/s19183/ConsoleAppTest/ConsoleAppTest/bin/Debug/netcoreapp3.1/ConsoleAppTest.dll
+/Users/vladyslav/RiderProjects/s19183/ConsoleAppTest/ConsoleAppTest/bin/Debug/netcoreapp3.1/ConsoleAppTest.pdb
+/Users/vladyslav/RiderProjects/s19183/ConsoleAppTest/ConsoleAppTest/obj/Debug/netcoreapp3.1/ConsoleAppTest.csprojAssemblyReference.cache
+/Users/vladyslav/RiderProjects/s19183/ConsoleAppTest/ConsoleAppTest/obj/Debug/netcoreapp3.1/ConsoleAppTest.AssemblyInfoInputs.cache
+/Users/vladyslav/RiderProjects/s19183/ConsoleAppTest/ConsoleAppTest/obj/Debug/netcoreapp3.1/ConsoleAppTest.AssemblyInfo.cs
+/Users/vladyslav/RiderProjects/s19183/ConsoleAppTest/ConsoleAppTest/obj/Debug/netcoreapp3.1/ConsoleAppTest.dll
+/Users/vladyslav/RiderProjects/s19183/ConsoleAppTest/ConsoleAppTest/obj/Debug/netcoreapp3.1/ConsoleAppTest.pdb
