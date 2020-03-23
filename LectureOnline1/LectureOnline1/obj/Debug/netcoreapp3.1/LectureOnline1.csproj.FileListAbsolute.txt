@@ -1,0 +1,17 @@
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/bin/Debug/netcoreapp3.1/LectureOnline1.deps.json
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/bin/Debug/netcoreapp3.1/LectureOnline1.runtimeconfig.json
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/bin/Debug/netcoreapp3.1/LectureOnline1.runtimeconfig.dev.json
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/bin/Debug/netcoreapp3.1/LectureOnline1.dll
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/bin/Debug/netcoreapp3.1/LectureOnline1.pdb
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/obj/Debug/netcoreapp3.1/LectureOnline1.csprojAssemblyReference.cache
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/obj/Debug/netcoreapp3.1/LectureOnline1.MvcApplicationPartsAssemblyInfo.cache
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/obj/Debug/netcoreapp3.1/LectureOnline1.AssemblyInfoInputs.cache
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/obj/Debug/netcoreapp3.1/LectureOnline1.AssemblyInfo.cs
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/obj/Debug/netcoreapp3.1/LectureOnline1.RazorTargetAssemblyInfo.cache
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/obj/Debug/netcoreapp3.1/staticwebassets/LectureOnline1.StaticWebAssets.Manifest.cache
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/obj/Debug/netcoreapp3.1/staticwebassets/LectureOnline1.StaticWebAssets.xml
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/obj/Debug/netcoreapp3.1/LectureOnline1.dll
+/Users/vladyslav/RiderProjects/s19183/LectureOnline1/LectureOnline1/obj/Debug/netcoreapp3.1/LectureOnline1.pdb

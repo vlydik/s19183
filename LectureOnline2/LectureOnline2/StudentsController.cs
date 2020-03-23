@@ -1,6 +1,8 @@
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using LectureOnline2.Models;
+using LectureOnline2.Services;
 using Microsoft.AspNetCore.CookiePolicy;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,7 +13,12 @@ namespace LectureOnline2
     public class StudentsController : ControllerBase
     {
         private string ConnString = "Data Source=db-mssql;Initial Catalog=s19183;Integrated Security=True";
-        [HttpGet]
+        private IStudentsDb _dbService;
+
+        public StudentsController(IStudentsDb db)
+        {
+            _dbService = db;
+        }        [HttpGet]
         public IActionResult GetStudents()
         {
             // var sqlConBuilder = new SqlConnectionStringBuilder();
@@ -43,7 +50,7 @@ namespace LectureOnline2
             
             return Ok(result);
         }
-        [HttpGet("{IndxeNumber}")]
+        [HttpGet("{IndexNumber}")]
         public IActionResult GetStudent(string IndexNumber)
         {
             
@@ -77,7 +84,7 @@ namespace LectureOnline2
             return Ok();
         }
         [HttpPost]
-        public IActionResult CreateStudent(Student newStudent)
+        public IActionResult CreateStudent([FromServices] IStudentsDb service, Student newStudent)
         {
             using(SqlConnection con = new SqlConnection())
             using (SqlCommand com = new SqlCommand())
@@ -97,7 +104,7 @@ namespace LectureOnline2
 
                 return Ok();
         }
-
+        [HttpGet("procedure")]
         public IActionResult GetStudents2()
         {
             using (SqlConnection con = new SqlConnection())
@@ -112,6 +119,33 @@ namespace LectureOnline2
             }
 
             return Ok();
+        }
+        [HttpGet("procedure")]
+        public IActionResult GetStudents3()
+        {
+            using(SqlConnection con = new SqlConnection())
+            using (SqlCommand com = new SqlCommand())
+            {
+                com.CommandText = "insert ...";
+                com.Connection = con;
+
+                con.Open();
+                SqlTransaction tran = con.BeginTransaction();
+                try
+                {
+                    com.ExecuteNonQuery();
+                    com.CommandText = "update smth...";
+                    com.ExecuteNonQuery();
+
+                    tran.Commit();
+                }
+                catch (Exception exc)
+                {
+                    tran.Rollback();
+                }
+
+            }    
+                return Ok();
         }
     }
 }
