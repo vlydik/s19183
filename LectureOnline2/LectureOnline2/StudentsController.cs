@@ -133,7 +133,7 @@ namespace LectureOnline2
                 SqlTransaction tran = con.BeginTransaction();
                 try
                 {
-                    com.ExecuteNonQuery();
+                    com.ExecuteNonQuery(); // insert
                     com.CommandText = "update smth...";
                     com.ExecuteNonQuery();
 
