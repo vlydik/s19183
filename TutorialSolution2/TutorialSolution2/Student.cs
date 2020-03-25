@@ -11,10 +11,7 @@ namespace TutorialSolution2
         public string FirstName { get; set; }
         [XmlElement(ElementName = "LastName")]
         public string LastName { get; set; }
-        // [XmlElement(ElementName = "Course")] 
-        // public string Course { get; set; }
-        // [XmlElement(ElementName = "StudiesType")] 
-        // public string StudiesType { get; set; }
+       
         [XmlElement(ElementName = "IndexNumber")] 
         public string IndexNumber { get; set; }
         [XmlElement(ElementName = "BirthDate")]
