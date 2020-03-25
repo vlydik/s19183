@@ -1,0 +1,17 @@
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.deps.json
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.runtimeconfig.json
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.runtimeconfig.dev.json
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.dll
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.pdb
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.csprojAssemblyReference.cache
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.MvcApplicationPartsAssemblyInfo.cache
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.AssemblyInfoInputs.cache
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.AssemblyInfo.cs
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.RazorTargetAssemblyInfo.cache
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/obj/Debug/netcoreapp3.1/staticwebassets/Task3.StaticWebAssets.Manifest.cache
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/obj/Debug/netcoreapp3.1/staticwebassets/Task3.StaticWebAssets.xml
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.dll
+/Users/vladyslav/RiderProjects/s19183/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.pdb
