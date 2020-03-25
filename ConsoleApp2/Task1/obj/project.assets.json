@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladyslav/RiderProjects/s19183/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "/Users/vladyslav/RiderProjects/s19183/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
+      "projectUniqueName": "/Users/vladyslav/RiderProjects/s19183/ConsoleApp2/Task1/Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "/Users/vladyslav/RiderProjects/s19183/ConsoleApp2/Task1/Task1.csproj",
       "packagesPath": "/Users/vladyslav/.nuget/packages/",
-      "outputPath": "/Users/vladyslav/RiderProjects/s19183/ConsoleApp2/ConsoleApp2/obj/",
+      "outputPath": "/Users/vladyslav/RiderProjects/s19183/ConsoleApp2/Task1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vladyslav/.config/NuGet/NuGet.Config"
