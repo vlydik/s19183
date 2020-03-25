@@ -1,0 +1,10 @@
+/Users/vladyslav/RiderProjects/s19183/TutorialSolution2/TutorialSolution2/bin/Debug/netcoreapp3.1/TutorialSolution2.deps.json
+/Users/vladyslav/RiderProjects/s19183/TutorialSolution2/TutorialSolution2/bin/Debug/netcoreapp3.1/TutorialSolution2.runtimeconfig.json
+/Users/vladyslav/RiderProjects/s19183/TutorialSolution2/TutorialSolution2/bin/Debug/netcoreapp3.1/TutorialSolution2.runtimeconfig.dev.json
+/Users/vladyslav/RiderProjects/s19183/TutorialSolution2/TutorialSolution2/bin/Debug/netcoreapp3.1/TutorialSolution2.dll
+/Users/vladyslav/RiderProjects/s19183/TutorialSolution2/TutorialSolution2/bin/Debug/netcoreapp3.1/TutorialSolution2.pdb
+/Users/vladyslav/RiderProjects/s19183/TutorialSolution2/TutorialSolution2/obj/Debug/netcoreapp3.1/TutorialSolution2.csprojAssemblyReference.cache
+/Users/vladyslav/RiderProjects/s19183/TutorialSolution2/TutorialSolution2/obj/Debug/netcoreapp3.1/TutorialSolution2.AssemblyInfoInputs.cache
+/Users/vladyslav/RiderProjects/s19183/TutorialSolution2/TutorialSolution2/obj/Debug/netcoreapp3.1/TutorialSolution2.AssemblyInfo.cs
+/Users/vladyslav/RiderProjects/s19183/TutorialSolution2/TutorialSolution2/obj/Debug/netcoreapp3.1/TutorialSolution2.dll
+/Users/vladyslav/RiderProjects/s19183/TutorialSolution2/TutorialSolution2/obj/Debug/netcoreapp3.1/TutorialSolution2.pdb
