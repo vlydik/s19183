@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Task3.DAL;
 
 namespace Task3
 {
@@ -26,6 +27,7 @@ namespace Task3
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddSingleton<IDbService, MockDbService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
